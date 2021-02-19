@@ -1,11 +1,11 @@
-Read Only by HTML5 UP
+Highlights by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
+Just a fun little single pager I whipped up to test out my new scroll events plugin
+(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
+all the usual pre-styled elements. Enjoy :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
