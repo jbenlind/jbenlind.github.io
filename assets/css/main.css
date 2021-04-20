@@ -3147,3 +3147,14 @@ input, select, textarea {
 		font-size: 1.75em ;
 	}
 
+#email-button {
+	font-size: 45px;
+	text-decoration: none;
+	border: none;
+	transition: .5s all ease-in-out;
+}
+
+#email-button:hover {
+	transition: .5s all ease-in-out;
+	font-size: 48px;
+}
