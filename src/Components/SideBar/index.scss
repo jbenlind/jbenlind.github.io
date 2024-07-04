@@ -1,0 +1,26 @@
+.side-bar__container {
+  background-color: #0072b1;
+  width: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 85vh;
+
+  .side-bar__item--container {
+    width: 100%;
+    transition: 0.2s ease;
+    cursor: pointer;
+    &:hover {
+      background-color: white;
+      .side-bar__item {
+        color: #000;
+      }
+    }
+
+    .side-bar__item {
+      padding: 1rem 1rem;
+      color: white;
+    }
+  }
+}
