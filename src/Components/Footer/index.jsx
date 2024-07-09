@@ -9,10 +9,12 @@ const Footer = () => {
           href="https://www.linkedin.com/in/jesse-lindloff-0ba8591aa/"
           target="_blank"
         >
-          <img src={LinkedInLogo} className="logo"></img>
+          tester
+          {/* <img src={LinkedInLogo} className="logo"></img> */}
         </a>
         <a href="https://github.com/jbenlind" target="_blank">
-          <img src={GitHubLogo} className="logo"></img>
+          testing
+          {/* <img src={GitHubLogo} className="logo"></img> */}
         </a>
       </div>
     </div>
